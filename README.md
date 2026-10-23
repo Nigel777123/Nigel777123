@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/race-intro.gif" width="100%" alt="Nigel Fernandes — animated F1 start lights and racing intro" />
+  <img src="./assets/race-intro-v2.gif" width="100%" alt="Nigel Fernandes — realistic animated night pit-lane racing intro" />
 </p>
 
 <p align="center">
@@ -16,34 +16,34 @@
 
 I'm **Nigel Fernandes** — an Electronics and Computer Science student at **CRCE, Mumbai**, building across web development, design, and creative technology. Off track, I make music and bring people together through events.
 
-<picture><source media="(max-width: 600px)" srcset="./assets/garage/driver-data-mobile.gif" /><img src="./assets/garage/driver-data.gif" width="100%" alt="Driver data: B.Tech ECS at CRCE, 2025–2029; Technical Representative; based in Mumbai, India." /></picture>
+<img src="./assets/garage/driver-data-v2.gif" width="100%" alt="Driver data over a realistic motorsport engineering garage: B.Tech ECS at CRCE, 2025–2029; Technical Representative; based in Mumbai, India." />
 
 ### 02 / THE TECH GARAGE
 
 Tools from my projects and learning journey. **Tap a logo to explore.**
 
 <p align="center">
-  <a href="https://react.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-react-mobile.gif" /><img src="./assets/garage/tech-react.gif" width="32%" alt="React — interfaces" /></picture></a>
-  <a href="https://nextjs.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-nextdotjs-mobile.gif" /><img src="./assets/garage/tech-nextdotjs.gif" width="32%" alt="Next.js — web framework" /></picture></a>
-  <a href="https://www.typescriptlang.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-typescript-mobile.gif" /><img src="./assets/garage/tech-typescript.gif" width="32%" alt="TypeScript — typed javascript" /></picture></a>
+  <a href="https://react.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-react-v2-mobile.gif" /><img src="./assets/garage/tech-react-v2.gif" width="32%" alt="React — interfaces" /></picture></a>
+  <a href="https://nextjs.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-nextdotjs-v2-mobile.gif" /><img src="./assets/garage/tech-nextdotjs-v2.gif" width="32%" alt="Next.js — web framework" /></picture></a>
+  <a href="https://www.typescriptlang.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-typescript-v2-mobile.gif" /><img src="./assets/garage/tech-typescript-v2.gif" width="32%" alt="TypeScript — typed javascript" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://tailwindcss.com/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-tailwindcss-mobile.gif" /><img src="./assets/garage/tech-tailwindcss.gif" width="32%" alt="Tailwind CSS — styling" /></picture></a>
-  <a href="https://motion.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-framer-mobile.gif" /><img src="./assets/garage/tech-framer.gif" width="32%" alt="Framer Motion — animation" /></picture></a>
-  <a href="https://vite.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-vite-mobile.gif" /><img src="./assets/garage/tech-vite.gif" width="32%" alt="Vite — build tooling" /></picture></a>
+  <a href="https://tailwindcss.com/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-tailwindcss-v2-mobile.gif" /><img src="./assets/garage/tech-tailwindcss-v2.gif" width="32%" alt="Tailwind CSS — styling" /></picture></a>
+  <a href="https://motion.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-framer-v2-mobile.gif" /><img src="./assets/garage/tech-framer-v2.gif" width="32%" alt="Framer Motion — animation" /></picture></a>
+  <a href="https://vite.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-vite-v2-mobile.gif" /><img src="./assets/garage/tech-vite-v2.gif" width="32%" alt="Vite — build tooling" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-nodedotjs-mobile.gif" /><img src="./assets/garage/tech-nodedotjs.gif" width="32%" alt="Node.js — server runtime" /></picture></a>
-  <a href="https://expressjs.com/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-express-mobile.gif" /><img src="./assets/garage/tech-express.gif" width="32%" alt="Express — api routing" /></picture></a>
-  <a href="https://sqlite.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-sqlite-mobile.gif" /><img src="./assets/garage/tech-sqlite.gif" width="32%" alt="SQLite — data storage" /></picture></a>
+  <a href="https://nodejs.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-nodedotjs-v2-mobile.gif" /><img src="./assets/garage/tech-nodedotjs-v2.gif" width="32%" alt="Node.js — server runtime" /></picture></a>
+  <a href="https://expressjs.com/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-express-v2-mobile.gif" /><img src="./assets/garage/tech-express-v2.gif" width="32%" alt="Express — api routing" /></picture></a>
+  <a href="https://sqlite.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-sqlite-v2-mobile.gif" /><img src="./assets/garage/tech-sqlite-v2.gif" width="32%" alt="SQLite — data storage" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-python-mobile.gif" /><img src="./assets/garage/tech-python.gif" width="32%" alt="Python — foundations" /></picture></a>
-  <a href="https://github.com/Nigel777123?tab=repositories"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-github-mobile.gif" /><img src="./assets/garage/tech-github.gif" width="32%" alt="GitHub — repositories" /></picture></a>
-  <a href="https://ai.google.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-googlegemini-mobile.gif" /><img src="./assets/garage/tech-googlegemini.gif" width="32%" alt="Gemini — ai integration" /></picture></a>
+  <a href="https://www.python.org/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-python-v2-mobile.gif" /><img src="./assets/garage/tech-python-v2.gif" width="32%" alt="Python — foundations" /></picture></a>
+  <a href="https://github.com/Nigel777123?tab=repositories"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-github-v2-mobile.gif" /><img src="./assets/garage/tech-github-v2.gif" width="32%" alt="GitHub — repositories" /></picture></a>
+  <a href="https://ai.google.dev/"><picture><source media="(max-width: 600px)" srcset="./assets/garage/tech-googlegemini-v2-mobile.gif" /><img src="./assets/garage/tech-googlegemini-v2.gif" width="32%" alt="Gemini — ai integration" /></picture></a>
 </p>
 
 <details>
@@ -63,17 +63,19 @@ Stack references: [portfolio](https://github.com/Nigel777123/personal-portfolio)
 
 **Select a project to open its repository.**
 
+<img src="./assets/garage/project-grid-v2.gif" width="100%" alt="Three projects presented in a realistic motorsport engineering garage: Personal Portfolio, Campus Reconnect, and ASL Detect." />
+
 <p align="center">
-  <a href="https://github.com/Nigel777123/personal-portfolio"><picture><source media="(max-width: 600px)" srcset="./assets/garage/project-portfolio-mobile.gif" /><img src="./assets/garage/project-portfolio.gif" width="32%" alt="Personal Portfolio: F1-inspired interface design. Open repository." /></picture></a>
-  <a href="https://github.com/Nigel777123/Campus_Reconnect"><picture><source media="(max-width: 600px)" srcset="./assets/garage/project-campus-mobile.gif" /><img src="./assets/garage/project-campus.gif" width="32%" alt="Campus Reconnect: Campus lost-and-found app. Open repository." /></picture></a>
-  <a href="https://github.com/Nigel777123/ASL_detect"><picture><source media="(max-width: 600px)" srcset="./assets/garage/project-asl-mobile.gif" /><img src="./assets/garage/project-asl.gif" width="32%" alt="Asl Detect: Sign-language project. Open repository." /></picture></a>
+  <a href="https://github.com/Nigel777123/personal-portfolio">PERSONAL PORTFOLIO ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/Nigel777123/Campus_Reconnect">CAMPUS RECONNECT ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/Nigel777123/ASL_detect">ASL DETECT ↗</a>
 </p>
 
 <p align="center"><a href="https://github.com/Nigel777123?tab=repositories">Explore the full garage ↗</a></p>
 
 ### 04 / CAREER LAP CHART
 
-<picture><source media="(max-width: 600px)" srcset="./assets/garage/career-laps-mobile.gif" /><img src="./assets/garage/career-laps.gif" width="100%" alt="Career lap chart: Spotify verified in 2023, released Golden Days in 2024, started B.Tech ECS in 2025, Technical Representative at CRCE in 2026." /></picture>
+<img src="./assets/garage/career-laps-v2.gif" width="100%" alt="Realistic animated career lap chart: Spotify verified in 2023, released Golden Days in 2024, started B.Tech ECS in 2025, Technical Representative at CRCE in 2026." />
 
 <details>
 <summary><strong>Read the race log — experience & milestones</strong></summary>
@@ -85,7 +87,7 @@ Stack references: [portfolio](https://github.com/Nigel777123/personal-portfolio)
 
 </details>
 
-<picture><source media="(max-width: 600px)" srcset="./assets/garage/off-track-mobile.gif" /><img src="./assets/garage/off-track.gif" width="100%" alt="Off track: guitar, music production, generative AI, and event management, with an animated audio equalizer." /></picture>
+<img src="./assets/garage/off-track-v2.gif" width="100%" alt="Realistic garage panel for guitar, music production, generative AI, and event management, with an animated audio equalizer." />
 
 <details>
 <summary><strong>Switch to the creative channel</strong></summary>
@@ -98,7 +100,7 @@ Stack references: [portfolio](https://github.com/Nigel777123/personal-portfolio)
 
 ### 06 / TEAM RADIO
 
-<a href="mailto:nigelferns2211@gmail.com"><picture><source media="(max-width: 600px)" srcset="./assets/garage/team-radio-mobile.gif" /><img src="./assets/garage/team-radio.gif" width="100%" alt="Team radio — let's build the next thing. Click to email Nigel." /></picture></a>
+<a href="mailto:nigelferns2211@gmail.com"><img src="./assets/garage/team-radio-v2.gif" width="100%" alt="Realistic team radio panel — let's build the next thing. Click to email Nigel." /></a>
 
 <p align="center">
   <strong><a href="mailto:nigelferns2211@gmail.com">SEND A TRANSMISSION ↗</a></strong>
