@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="#01--driver-data">DRIVER</a> &nbsp; / &nbsp;
-  <a href="#02--the-tech-garage">TECH GARAGE</a> &nbsp; / &nbsp;
-  <a href="#03--the-project-grid">PROJECTS</a> &nbsp; / &nbsp;
-  <a href="#04--career-lap-chart">LAP HISTORY</a> &nbsp; / &nbsp;
-  <a href="#06--team-radio">TEAM RADIO</a>
+  <a href="#user-content-01--driver-data">DRIVER</a> &nbsp; / &nbsp;
+  <a href="#user-content-02--the-tech-garage">TECH GARAGE</a> &nbsp; / &nbsp;
+  <a href="#user-content-03--the-project-grid">PROJECTS</a> &nbsp; / &nbsp;
+  <a href="#user-content-04--career-lap-chart">LAP HISTORY</a> &nbsp; / &nbsp;
+  <a href="#user-content-06--team-radio">TEAM RADIO</a>
 </p>
 
 <p align="center"><sub><a href="./STATIC.md">View the motion-free edition</a></sub></p>
