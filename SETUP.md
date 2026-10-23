@@ -1,12 +1,19 @@
-# Add this to your GitHub profile
+# Cinematic GitHub profile README
 
-1. Open your public profile repository: the repository whose name matches your GitHub username exactly. Create it if needed.
-2. Put `README.md` at the root of that repository.
-3. Upload the `assets` folder alongside it, keeping `assets/grid-header.svg` at that exact path.
-4. Commit the files and visit your GitHub profile.
+1. Open your public profile repository (its name must match your GitHub username).
+2. Upload `README.md` and the entire `assets` folder at the repository root.
+3. Commit, then open your GitHub profile.
 
-The ZIP contains the README and its banner together. You do not need to upload this setup file.
+Keep the folder structure exactly as provided. Uploading only the README will leave the animations missing.
 
-The design uses GitHub-compatible Markdown, basic HTML, and a local SVG asset. It does not depend on live stats services or external badge images. The banner stays dark in both light and dark mode; the README text follows the viewer's GitHub theme.
+## Included
 
-Content is based on the supplied profile PDF. Review roles and dates before publishing. The public contact links include the email address and LinkedIn profile in that PDF; remove the email link if you prefer LinkedIn-only contact.
+- `assets/race-intro.gif`: custom nine-second looping racing intro, 1200 × 520, 20 frames per second.
+- `assets/racing-line.gif`: subtle moving track divider.
+- `assets/race-intro-static.png`: still version for readers who prefer no motion.
+
+The telemetry bars are decorative animation, not GitHub activity or performance statistics. The design uses local GIF images and GitHub-compatible Markdown; no API keys or animation service are required. The dark artwork has its own background; surrounding text follows the reader’s GitHub theme.
+
+To make the profile static, change `race-intro.gif` to `race-intro-static.png` in the README and remove the racing-line image tags. The GIF itself has no pause control.
+
+Contact details and experience come from your supplied profile. Review them before publishing. Remove the email links if you prefer LinkedIn-only contact.

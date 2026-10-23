@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/grid-header.svg" alt="Nigel Fernandes — Engineering curiosity. Creative instinct. F1-inspired driver profile." width="100%" />
+  <img src="./assets/race-intro.gif" alt="Animated racing intro: five start lights illuminate, a red open-wheel car launches, and Nigel Fernandes’s name stays on screen." width="100%" />
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
   <a href="mailto:nigelferns2211@gmail.com">Get in touch ↗</a>
 </p>
 
----
+<img src="./assets/racing-line.gif" width="100%" alt="" />
 
-### 01 / DRIVER PROFILE
+### 01 / MEET THE DRIVER
 
 I'm **Nigel Fernandes**, an Electronics and Computer Science student with a creative streak. My interests span technology, web design, and music production — with curiosity driving the next experiment.
 
@@ -23,7 +23,7 @@ I bring that same energy to technical leadership, events, and the work I create 
 
 > **Engineering curiosity. Creative instinct. Always another lap to learn.**
 
-### 02 / ON THE GRID
+### 02 / RACE ENGINEER’S BRIEF
 
 | Position | Current entry |
 | :--- | :--- |
@@ -32,7 +32,7 @@ I bring that same energy to technical leadership, events, and the work I create 
 | **Interests** | Technology · Web design · Creative applications of AI |
 | **Off-track** | Guitar · Music theory · Music production |
 
-### 03 / THE TOOLKIT
+### 03 / UNDER THE BODYWORK
 
 **TECH & DESIGN**<br />
 Web design · Python programming fundamentals · Generative AI foundations
@@ -43,7 +43,7 @@ Marketing strategy · Public relations · Event management
 **SOUND & CREATIVITY**<br />
 Acoustic guitar · Music theory · Music production
 
-### 04 / LAP NOTES
+### 04 / CAREER LAP CHART
 
 - **2026 — Stepping into technical leadership.** Technical Representative at CRCE, following event management experience with IEEExCRCE.
 - **2025 — Joining the engineering grid.** Began my B.Tech in Electronics and Computer Science at CRCE.
@@ -71,9 +71,9 @@ Have an idea at the intersection of **technology, design, or music**? Let's conn
 
 **[Send a message →](mailto:nigelferns2211@gmail.com)** &nbsp; **[Meet me on LinkedIn →](https://www.linkedin.com/in/nigelferns/)**
 
----
+<img src="./assets/racing-line.gif" width="100%" alt="" />
 
 <p align="center">
   <sub><strong>NIGEL FERNANDES</strong> &nbsp; / &nbsp; BUILT WITH CURIOSITY. TUNED THROUGH PRACTICE.</sub><br />
-  <sub>See you on the next lap.</sub>
+  <sub>See you on the next lap. &nbsp; <a href="./assets/race-intro-static.png">View static banner</a></sub>
 </p>
