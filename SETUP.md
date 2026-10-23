@@ -9,3 +9,5 @@ STATIC.md is a motion-free edition with PNG equivalents and the same links. All 
 Technology choices were checked against public repository files: personal-portfolio/src/data/skills.ts, personal-portfolio/package.json, Campus_Reconnect/package.json, and qrgpt/package.json. Python and biographical details came from the supplied profile PDF.
 
 Technology logo shapes are from Simple Icons (https://github.com/simple-icons/simple-icons), distributed under CC0. Brand names and marks belong to their respective owners. See assets/garage/ATTRIBUTION.md.
+
+Mobile displays use compact alternate images through picture/source media rules; the logo and project cards stay individually clickable.
