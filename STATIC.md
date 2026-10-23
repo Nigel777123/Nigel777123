@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/race-intro-v2-static.png" width="100%" alt="Nigel Fernandes — realistic animated night pit-lane racing intro" />
+  <img src="./assets/race-intro-v3-static.png" width="100%" alt="Nigel Fernandes — realistic night pit-lane racing intro" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 I'm **Nigel Fernandes** — an Electronics and Computer Science student at **CRCE, Mumbai**, building across web development, design, and creative technology. Off track, I make music and bring people together through events.
 
-<img src="./assets/garage/driver-data-v2.png" width="100%" alt="Driver data over a realistic motorsport engineering garage: B.Tech ECS at CRCE, 2025–2029; Technical Representative; based in Mumbai, India." />
+<img src="./assets/garage/driver-data-v3.png" width="100%" alt="Driver data over a realistic motorsport engineering garage: Technical curiosity, creative range; B.Tech ECS at CRCE, 2025–2029; Technical Representative; based in Mumbai, India." />
 
 ### 02 / THE TECH GARAGE
 
