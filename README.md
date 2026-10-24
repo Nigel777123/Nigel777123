@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/race-intro-v3.gif" width="100%" alt="Nigel Fernandes — animated night pit-lane racing intro with moving car and lights" />
+  <img src="./assets/race-intro.gif" width="100%" alt="Nigel Fernandes — animated illustrated F1 car, start lights and racing telemetry" />
 </p>
 
 <p align="center">
